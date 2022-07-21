@@ -1,6 +1,0 @@
-"..\obj\main.obj",
-"..\obj\LDChip.obj",
-"..\obj\Reg_RW.obj",
-"..\obj\usart.obj" 
-TO "..\obj\LDV3" 
-PRINT(".\LDV3.m51") RAMSIZE(256) 
